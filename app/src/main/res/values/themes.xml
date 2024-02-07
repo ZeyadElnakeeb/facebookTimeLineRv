@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FacebookTimeLineRv" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+         Customize your light theme here.
+         <item name="colorPrimary">#1E2D87</item>
+        <item name="android:statusBarColor">#102080</item>
+
+
+    </style>
+
+    <style name="Theme.FacebookTimeLineRv" parent="Base.Theme.FacebookTimeLineRv" />
+</resources>
